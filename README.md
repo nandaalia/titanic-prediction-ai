@@ -12,8 +12,8 @@ Proyek ini merupakan implementasi supervised learning untuk memprediksi kelangsu
 ## 🗂️ Struktur File
 
 ```text
-📁 titanic-prediction/
+📁 titanic-prediction-ai/
 │
-├── titanic_notebook.ipynb     <- Notebook utama berisi preprocessing, training, dan evaluasi
-├── output.pdf                 <- (Opsional) PDF versi notebook
-├── README.md                  <- File ini
+├── titanic_notebook.ipynb     
+├── Titanic Survival Prediction ー Code.pdf                 
+├── README.md                  
